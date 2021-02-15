@@ -5,7 +5,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/PrabuDzak/pubsub"
+	"github.com/prabudzak/pubsub"
 )
 
 func TestPubSubExample(t *testing.T) {
